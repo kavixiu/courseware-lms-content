@@ -1,9 +1,9 @@
-This demo video by Product and Services Portfolio defines the value add that Continuous Delivery for Puppet Enterprise (CD for PE) provides PE customers. It covers how CD for PE:
+This demo video by Product and Services Portfolio defines the value add that Continuous Delivery for Puppet Enterprise (CD for PE) provides PE customers. After watching the video, you will understand how to execute the following core functions of CD for PE:
 
-* Tests and manages a control-repo
-* Performs different deployments of control-repo code 
-* Manages module testing
-* Changes the git workflow and PE classifier architecture
+* Test and manage a control-repo
+* Perform different deployments of control-repo code 
+* Manage module testing
+* Change the git workflow and PE classifier architecture
 
 ### Lesson
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/i25smgpxdm?seo=false&videoFoam=true" title="Wistia video player" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
