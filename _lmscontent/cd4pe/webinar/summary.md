@@ -1,1 +1,1 @@
-This is the recording of Matt Cadorette and John Fahl explaining CD4PE.  
+Principal Continuous Integration and Delivery Engineers Matt Cadorette and John Fahl lead a deep dive session on deploying with Continuous Delivery for Puppet Enterprise.  
