@@ -15,7 +15,7 @@
   "duration.minutesPerDay": 15,
   "generateCertificate": "DEFAULT",
   "generateProofOfCompletion": "DEFAULT",
-  "name": "CD4PE Webinar",
+  "name": "Continuous Delivery for Puppet Enterprise: Webinar",
   "orderNumber": 0,
   "price": "0.00 USD",
   "primaryCategoryId": 10,
