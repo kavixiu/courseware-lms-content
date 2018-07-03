@@ -1,0 +1,1 @@
+In this quick walkthrough, learn how to get started with Puppet's Cisco iOS module.
