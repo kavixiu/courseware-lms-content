@@ -1,4 +1,4 @@
-### Train the Trainer
+#Train the Trainer
 
 As an instructor, I need to know best practices for engaging learners
 so that my students learn and courses are successful and enjoyable
@@ -28,8 +28,7 @@ As a seasoned instructor, I need to know how to present new material so that my 
 * Present instructors with tips, strategies, and practical guides for teaching adults
 
 
-***Module One***
-Teaching Adults
+## Module One: Teaching Adults
 
 --Main points
 Keep it practical and engaging 
@@ -49,8 +48,7 @@ Respect student experience and knowledge
 
 --Summary
 
-***Module Two***
-Preparing for Class
+## Module Two: Preparing for Class
 
 --Main Points
 Don't wing it. Really. No, don't do it.
@@ -66,14 +64,16 @@ Each class has different needs
 
 --Strategies and Tips
 https://www.sessionlab.com/methods/check-in-questions
+
 Online quick quizzes
+
 Doodle polls
+
 Review all labs, not just those who ask
 
 --Summary
 
-**Module Three**
-Teaching Puppet Courses
+## Module Three:Teaching Puppet Courses
 
 --Main Points
 
@@ -87,3 +87,7 @@ Learning the flow of slides
 * Using slides and Showoff (explain how to use instructor notes, and link this back to module one)
 * What happens when it blows up
 
+--Strategies and Tips
+Read the docs (we need one place for this)
+
+--Summary
