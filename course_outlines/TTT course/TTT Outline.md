@@ -27,67 +27,94 @@ As a seasoned instructor, I need to know how to present new material so that my 
 * Organize resources to provide instructors one place to go for all they need
 * Present instructors with tips, strategies, and practical guides for teaching adults
 
+## Module One: Fundamentals of Teaching Adults
 
-## Module One: Teaching Adults
-
---Main points
-Keep it practical and engaging 
+#### Main Points
+1. Keep it practical and engaging 
 * Students are goal oriented (what is in it for me?)
 * Students need multiple ways to participate (more than verbal check ins)
 * Students need different learning strategies (more than lecture)
+* Relate content to their jobs
+* Encourage problem solving and digging into material
 
-Respect student experience and knowledge
+2. Respect student experience and time
 * Show relevance of material to students' lives (focus on them and their needs)
 * Recognize they have much to add to the course (even if not verbally)
 * Create a welcoming place where it is safe to participate (your job to stop disruptions)
 * Give them tools and tips they will remember and use
+* Be realistic about the schedule and adjust as needed
 
---Examples
+#### Examples of this in the classroom
+* short video clips
+* interactive assessment
 
---Strategies and Tips
+#### Strategies and Tips
+Links and downloads:
+Get to know you exercise: Your goal is to learn their job, motivation, and level of knowledge in a respectful, subtle manner. 
 
---Summary
+Anonymous quizzes: Adults can be reluctant to share their weaknesses in front of others. To gauge retention outside of built-in checkpoints, consider using free online quizzes at the end of the day, or at the mid-point, to see how everyone is tracking.
+
+Ready to use anecdotes: Have examples ready for your user profile. If working with folks who care about security, be sure you have some short examples ready to go. Diversify your examples and relate them to the people in your course.
+
+Don't lie: If you do not know an answer, don't pretend. let them know you will check on that and get back to them. And then do that.
+
+Keep a parking lot for errant ideas: To respect time and input, listen to what students have to say but add off-topic or potentially disrupting ideas to a parking lot, either on a board or virtual, where all students can access. Depending on the idea, you could encourage other students to weigh in via Slack on the issue, or you could come back to these ideas if time allows.
+
+Respect space and time: Be clear with students about your personality and approach. Invite feedback from them so you can be sure they understand you. 
+
+#### Summary
+Adults need to know how the material will impact their work; how it fits with what they know; and why they should care. They are goal oriented and require lots of engagement and respect for their individual experiences.
 
 ## Module Two: Preparing for Class
 
---Main Points
-Don't wing it. Really. No, don't do it.
+### Main Points
+1. Don't wing it. Really.
 * Technical preparation ensures smooth classroom
 * Teaching preparation and strategies
 
-Each class has different needs
-* Engage students online versus in person 
+2. Each class has different needs
+* Engaging students online versus in person 
 * Cultural differences need to be respected (not everyone will verbally participate and that is fine)
 * Adjust speed of delivery and content accordingly (don't ram content into the day) 
+* How to run a classroom like a pro
 
---Examples
+#### Examples
+* video clips
 
---Strategies and Tips
-https://www.sessionlab.com/methods/check-in-questions
+#### Strategies and Tips
+Links and downloads:
 
+Training documentation and links
 Online quick quizzes
+Doodle polls, SurveyGizmo, and other tools
+Reviewing labs quickly to assess comprehension
+[Check in questions](https://www.sessionlab.com/methods/check-in-questions)
 
-Doodle polls
+#### Summary
+Each class requires unique preparation, technically and instructionally. Use different techniques and methods for every class to help keep you and students engaged.
 
-Review all labs, not just those who ask
+## Module Three: Teaching Puppet Courses
 
---Summary
+### Main Points
 
-## Module Three:Teaching Puppet Courses
-
---Main Points
-
-You're the expert...kind of 
+1. How to rep Puppet 
 * Dealing with what you don't know
 * Keeping relevant with Puppet issues and updates
-* Remember to facilitate, not dictate
+* Puppet messaging and code of conduct for events
+* Facilitate, not dictate
 
-Learning the flow of slides
+2. Learning the flow of slides
 * Basics of classroom setup
 * Using slides and Showoff (explain how to use instructor notes, and link this back to module one)
-* What happens when it blows up
+* What happens when it blows up: new global support escalation
 
---Strategies and Tips
-Read the docs (we need one place for this)
+#### Examples
+* video clips from Puppet classes
 
---Summary
+#### Strategies and Tips
+
+Links to documentation:
+Revised training repo
+Getting Started with Puppet design document
+Submitting PRs
+Submitting tickets
