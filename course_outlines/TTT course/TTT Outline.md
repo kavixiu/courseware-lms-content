@@ -1,4 +1,5 @@
 # Train the Trainer
+User: Puppet instructors, including partners
 
 As an instructor, I need to know best practices for engaging learners
 so that my students learn and courses are successful and enjoyable
@@ -7,7 +8,7 @@ As a new instructor, I need to understand course outcomes and Puppet best practi
 
 As a seasoned instructor, I need to know how to present new material so that my students learn and courses are successful and enjoyable
 
-**What skills does a user need to practice in training?**
+**What skills does a user need to learn or practice in the train the trainer?**
 * Giving adults feedback
 * Accessing resources for teaching: instructor guide, notes, etc
 * Public speaking: voice level, move around the room, dealing with people 
