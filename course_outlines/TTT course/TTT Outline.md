@@ -85,11 +85,11 @@ Adults need to know how the material will impact their work; how it fits with wh
 #### Strategies and Tips
 Links and downloads:
 
-Training documentation and links
-Online quick quizzes
-Doodle polls, SurveyGizmo, and other tools
-Reviewing labs quickly to assess comprehension
-[Check in questions](https://www.sessionlab.com/methods/check-in-questions)
+* Training documentation and links
+* Online quick quizzes
+* Doodle polls, SurveyGizmo, and other tools
+* Reviewing labs quickly to assess comprehension
+* [Check in questions](https://www.sessionlab.com/methods/check-in-questions)
 
 #### Summary
 Each class requires unique preparation, technically and instructionally. Use different techniques and methods for every class to help keep you and students engaged.
@@ -115,7 +115,10 @@ Each class requires unique preparation, technically and instructionally. Use dif
 #### Strategies and Tips
 
 Links to documentation:
-Revised training repo
-Getting Started with Puppet design document
-Submitting PRs
-Submitting tickets
+* Revised training repo
+* Getting Started with Puppet design document
+* Submitting PRs
+* Submitting tickets
+
+#### Summary 
+There are frequent changes in course content and the technology used to serve it. Be sure to be prepared to teach the class and help make the classes stable and high-quality with tickets and PRs.
