@@ -1,6 +1,6 @@
 *Thanks for contributing to Puppet's training content! You are helping to make our content awesome. In order to ensure consistency across all training video content, we ask that you stick to the process as outlined below. This will make it easier for us to all be on the same page. If you have any questions with any of the steps outlined below, contact tara.swenson@puppet.com.*
 
-## Video Contributors Step-by-Step Process
+## How to Contribute: Video Content
 
 ### 1. Download Screenflow, or another screencast software if you do not already have one. [You can obtain a license for Screenflow from IT here](https://tickets.puppetlabs.com/servicedesk/customer/portal/2).
 
