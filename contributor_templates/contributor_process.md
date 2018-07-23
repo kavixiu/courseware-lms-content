@@ -18,7 +18,7 @@
   4. Walk through the training content. This is the meat of the content, containing all the navigation, concepts, links, step-by-step processes, etc. This is where the bulk of your screencast will take place. (There is no set number of sentences for this part, just be sure that the length is consistent with the time requirement for the video, i.e. ~5 minutes for a training video, ~10 minutes for a product walkthrough video, ~15-45 minutes for a demo video):  
   *"Start by ensuring that your computer has enough free memory for the Learning VM download. You will need at least 3 gigs of unused space... Next, navigate to the Learning VM download site. Click the button to download the Learning VM. Click to open the .ova file... "*
    
-  5. Video wrap-up and additional resources. A very brief recap about what the viewer has learned, and resources where to find more information or people who can answer additional questions. (3-5 sentences)  
+  5. Video wrap-up and additional resources. A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. (3-5 sentences)  
   *"In this video I first introduced you to the Puppet Learning VM, then I walked you through the system requirements and the quest completion process. Lastly, I covered a few common issues that you might encounter. I hope you enjoyed this video and found it helpful. If you would like to read more about using the Puppet Learning VM, visit the docs at ____. If you have any unanswered questions, please reach out to services-portfolio@puppet.com. Thanks for watching!"*
 
 ### 3. Now you are ready to record your video and audio! 
@@ -26,12 +26,12 @@
 
 #### Guidelines for recording audio and video:  
 
-  * Talk at consistent speed, be aware of language, avoid saying “um”. Tone is somewhat casual and friendly, but always professional. Try not to use acronyms, which can be exclusive for some learners.  
-  * Speak in first person. "We" refers to Puppet the company, not "we" the narrator and viewer.
+  * Talk at a consistent speed, be aware of language, avoid saying “um”. Tone is somewhat casual and friendly, but always professional. Try not to use acronyms, which can be exclusive for some learners.  
+  * Speak in first person, directly to the viewer. "We" refers to Puppet the company, not "we" the narrator and viewer.
   * For Demo and Product Walkthrough videos, it is fine to record the audio and video “live” using Screenflow. 
   * For Training videos, we prefer that you record audio/video separately in order to get the highest quality recordings of each. These will be synced in post-production. 
   * High quality audio is necessary. Ideally audio should be recorded in a webinar room such as Snuffy, using the Audition software. If this is not possible, you must use an external microphone (not your built-in microphone) to record into your computer. If you do not already have one, you can order a headset from IT help desk  by filling out a request form [here](https://tickets.puppetlabs.com/servicedesk/customer/portal/2). It should arrive within a few business days.  
   * Ensure that your on-screen visuals/text are high contrast and easy to read. Be sure your capture settings are recording at 1920 x 1080 pixels. Record your screencast! 
 
 ### 4. When you're done:  
-  * Export your video as an mp4 file (web resolution set to high) and upload it to Box. Send your Box link, along with a link to your narration transcript to the Services Portfolio team (services-portfolio@puppet.com) for editing and upload.
+  * Export your video as an mp4 file (web resolution set to high) and upload it to Box. Send your Box link, along with a link to your narration transcript to the Services Portfolio team (services-portfolio@puppet.com) for editing and upload. Thanks for your contribution!
