@@ -13,14 +13,14 @@
 **Video Outline:**  
 
 1. Title card (3 seconds)  
-  * Visual: Title card 
   ![Screenshot of title card](/contribution_guide/example_screenshots/example-title-card.png?raw=true "Title card")  
-  * Narration: State your name and title for the intro title card. (1 sentence)  
+  Narration: State your name and title for the intro title card. (1 sentence)  
 	*"My name is Tara Swenson and I'm an eLearning Content Developer at Puppet."* 
 
 2. Introduction (30-45 seconds)  
-  * Visual: Product icon, website or related graphic (insert screenshot)
-  * Narration: Introduce the value of the product features and explain what the problem is that it solves. Give an example of a real world case study (1-3 sentences):   
+  Visual: Product icon, website or related graphic (insert screenshot)
+  ![Screenshot of intro icon](/contribution_guide/example_screenshots/intro-icon.png?raw=true "Intro icon")
+  Narration: Introduce the value of the product features and explain what the problem is that it solves. Give an example of a real world case study (1-3 sentences):   
   *"The Learning VM is an interactive learning tool built to help you interact with Puppet by getting your hands on some Puppet code. We found that beginners to Puppet were struggling with understanding the way that Puppet works, by not being able to try it out themselves so we decided to build a machine that would allow them to do just that. Now students report a much higher rate of success when learning Puppet."*
 	
 3. Video Overview (30 seconds)  
