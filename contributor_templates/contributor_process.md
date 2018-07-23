@@ -4,7 +4,7 @@
 
 ### 1. Download Screenflow, or another screencast software if you do not already have one. [You can obtain a license for Screenflow from IT here](https://tickets.puppetlabs.com/servicedesk/customer/portal/2).
 
-### 2. Write a transcript. Your file should be saved to courseware-lms-content/video/transcripts/your_course. Use this format to write your transcript:  
+### 2. Write a transcript. Your file should be saved to https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts. Use this format to write your transcript:  
   
   1. State your name and title for the intro title card. (1 sentence)  
 	*"My name is Tara Swenson and I'm an eLearning Content Developer at Puppet."* 
