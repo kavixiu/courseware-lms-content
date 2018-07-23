@@ -13,7 +13,7 @@
 **Video Outline:**  
 
 1. Title card (3 seconds)  
-  * Visual: Title card (insert screenshot)![Screenshot of title card](/example_screenshots/example-title-card.png "Optional Title")  
+  * Visual: Title card (insert screenshot)![Screenshot of title card](/example_screenshots/example-title-card.png?raw=true "Optional Title")  
   * Narration: State your name and title for the intro title card. (1 sentence)  
 	*"My name is Tara Swenson and I'm an eLearning Content Developer at Puppet."* 
 
