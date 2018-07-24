@@ -8,6 +8,8 @@
 | **A/V Recording Settings** | See [Puppet Training Videos: Best Practices](https://confluence.puppetlabs.com/display/SP/Puppet%27s+Training+Videos%3A+Best+Practices), [How to record a demo video](https://confluence.puppetlabs.com/display/SP/How+to+record+a+demo+video) and [Audio Recording 101](https://confluence.puppetlabs.com/display/SP/Audio+Recording+101). 
 
 ### Product Walkthrough Video Example
+[![Puppet Tasks Product Walkthrough](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://puppet.wistia.com/medias/o4nlwajf0y)
+
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/o4nlwajf0y?seo=false&videoFoam=true" title="Wistia video player" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
 <script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
 *Video example does not perfectly align with script example - defer to script example when writing your script.*
