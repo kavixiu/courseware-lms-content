@@ -1,4 +1,4 @@
-## Product Walkthrough Video
+# Product Walkthrough Video
 
 **Description:** A high level video that takes the viewer through an overview of product features and describes the value of the product and a quick glimpse into how it works. 
 
