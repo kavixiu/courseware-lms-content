@@ -32,6 +32,7 @@
   * For Training videos, we prefer that you record audio/video separately in order to get the highest quality recordings of each. These will be synced in post-production. 
   * High quality audio is necessary. Ideally audio should be recorded in a webinar room such as Snuffy, using the Audition software. If this is not possible, you must use an external microphone (not your built-in microphone) to record into your computer. If you do not already have one, you can order a headset from IT help desk  by filling out a request form [here](https://tickets.puppetlabs.com/servicedesk/customer/portal/2). It should arrive within a few business days.  
   * Ensure that your on-screen visuals/text are high contrast and easy to read. Be sure your capture settings are recording at 1920 x 1080 pixels. Record your screencast! 
+  * [Check out Confluence for details on how to record audio and video using Screenflow.](https://confluence.puppetlabs.com/display/SP/How+to+record+a+demo+video) 
 
 ### 4. When you're done:  
   * Export your video as an mp4 file (web resolution set to high) and upload it to Box. Send your Box link, along with a link to your narration transcript to the Services Portfolio team (services-portfolio@puppet.com) for editing and upload. Thanks for your contribution!
