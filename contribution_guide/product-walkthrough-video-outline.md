@@ -10,7 +10,7 @@
 
 **A/V Recording Settings:** Recorded “live” using Screenflow or similar software; screen set to 1920 x 1080 pixels.
 
-**Video Outline:**  
+## Video Outline:  
 
 ### 1. Title card (3 seconds)  
   ![Screenshot of title card](/contribution_guide/example_screenshots/example-title-card.png?raw=true "Title card")  
