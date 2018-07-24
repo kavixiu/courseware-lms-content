@@ -33,7 +33,7 @@
   *"Start by ensuring that your computer has enough free memory for the Learning VM download. You will need at least 3 gigs of unused space... Next, navigate to the Learning VM download site. Click the button to download the Learning VM. Click to open the .ova file... "*
    
 ### 5. Video recap and resources (30 seconds)
-  ![Screenshot of video overview](/contribution_guide/example_screenshots/video-overview.png?raw=true "Video overview")
+  ![Screenshot of video recap image](/contribution_guide/example_screenshots/outro-icon.png?raw=true "Video recap image")
   **Narration: A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. (3-5 sentences)**  
   *"In this video I first introduced you to the Puppet Learning VM, then I walked you through the system requirements and the quest completion process. Lastly, I covered a few common issues that you might encounter. I hope you enjoyed this video and found it helpful. If you would like to read more about using the Puppet Learning VM, visit the docs at ____. If you have any unanswered questions, please reach out to services-portfolio@puppet.com. Thanks for watching!"*
   
