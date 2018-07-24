@@ -31,3 +31,4 @@ Order | Section | Description | Length | Narration
 5 | Video Recap & Resources | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. | 3-5 sentences |  *"In this video I covered (agenda items/key takeaways, in order of presentation). (Your personal sign-off, including any additional resources and contact information if applicable.)*"
 
 You did it!  :dancers:
+/play greatjob
