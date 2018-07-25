@@ -32,7 +32,7 @@ Order | Section | Description | Length | Narration | Example Timecode
 <br>  
 
 
-### Step 3. Add your content to the script placeholder form below. Once that is done, delete everything above your script. Submit a pull request to have your script pulled into the 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
+### Step 3. Add your content to the script placeholder form below. 
 
 <br>
 
@@ -46,6 +46,9 @@ Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arr
 5 | Video Recap & Resources | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. | 3-5 sentences |  *"In this video I covered (agenda items/key takeaways, in order of presentation). (Your personal sign-off, including any additional resources and contact information if applicable.)*"
 
 <br>
+
+### Step 4: Delete everything above your script. Submit a pull request to have your script pulled into the 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
+
 <br>
 
 ✨You did it!  :dancers:✨ Now you're ready to record your screencast. [How to record audio and video for a screencast.](https://confluence.puppetlabs.com/display/SP/How+to+record+audio+and+video+for+a+screencast)
