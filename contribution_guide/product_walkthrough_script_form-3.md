@@ -7,11 +7,11 @@
 | **Quality/Tone** | Friendly and authoritative. Narrated directly, in 2nd person (i.e. "Now click on the link" as opposed to "Now *we* click on the link" or "Now *I* click on the link". For more details on tone, defer to the [Puppet Content Style Guide](https://confluence.puppetlabs.com/display/Writing/Tone).)
 | **A/V Recording Settings** | See [Puppet Training Videos: Best Practices](https://confluence.puppetlabs.com/display/SP/Puppet%27s+Training+Videos%3A+Best+Practices), [How to record a demo video](https://confluence.puppetlabs.com/display/SP/How+to+record+a+demo+video) and [Audio Recording 101](https://confluence.puppetlabs.com/display/SP/Audio+Recording+101). 
 
-### Product Walkthrough Video Example
+### Product Walkthrough Video Example 🎥
 [![Puppet Tasks Product Walkthrough](/contribution_guide/example_screenshots/Puppet_Tasks_Product_Walkthrough.png)](https://puppet.wistia.com/medias/o4nlwajf0y)
 *Video example does not perfectly match script example - defer to script example when writing your script.*
 	
-### Product Walkthrough Script Example 
+### Product Walkthrough Script Example 📄
 
 Order | Section | Description | Length | Narration | Example Timecode
 ----- | ------- | ----------- | ------ | ------- | -----
@@ -21,7 +21,7 @@ Order | Section | Description | Length | Narration | Example Timecode
 4 | Training Content | Walk through the training content. This is the meat of the content, containing all the navigation, concepts, links, step-by-step processes, etc. | 5-8 minutes |  *"The standalone task runner is called Bolt. Its written in Ruby, distributed as a gem, and I'm going to get started by installing Bolt on a workstation with the command 'gem install bolt'..."* | 01:10-06:21
 5 | Video Recap & Resources | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. | 3-5 sentences |  *"(In this video I) ran commands using the Bolt tool, then took those commands and turned them into a script, which was transferred to the remote systems and executed. I then turned the script into a task which let Bolt learn more about how the task was written and run it with parameters... "* | 06:21-06:55
 
-### 📝Fill in Your Script Below📝
+### Fill in Your Script Below 📝⬇️
 Order | Section | Description | Length | Narration
 ----- | ------- | ----------- | ------ | -------
 1 | Title Card | State your name and title for the intro title card. | 1 sentence | *"My name is ___ and I'm the ___ at Puppet."* | 00:00-00:05
@@ -30,4 +30,4 @@ Order | Section | Description | Length | Narration
 4 | Training Content | Walk through the training content. This is the meat of the content, containing all the navigation, concepts, links, step-by-step processes, etc. | 5-8 minutes |  *"(Start with agenda item 1. Then move on to item 2, then item 3, and so on...) "*
 5 | Video Recap & Resources | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. | 3-5 sentences |  *"In this video I covered (agenda items/key takeaways, in order of presentation). (Your personal sign-off, including any additional resources and contact information if applicable.)*"
 
-You did it!  :dancers:
+✨You did it!  :dancers:✨
