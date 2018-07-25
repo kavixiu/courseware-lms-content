@@ -1,4 +1,4 @@
-# Contribution Guide: Product Walkthrough
+# Contribution Guide: Product Walkthrough Video
  
 ### Step 1. Fork this repo!  
 ### Step 2. Review the video details, example video and example script: 
