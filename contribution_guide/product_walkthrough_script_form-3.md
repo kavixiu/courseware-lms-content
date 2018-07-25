@@ -1,6 +1,6 @@
 # Product Walkthrough Video
 
-### Task:  
+### Content Contributors:  
   ### 1. Read over the video description, watch the video example and read the example script outline. 
   ### 2. Add your content to the script placeholder form at the bottom of the page.
 <br>
