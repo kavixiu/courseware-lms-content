@@ -38,10 +38,10 @@ Order | Section | Description | Length | Narration | Example Timecode
 <br>
 
 ### Fill in Your Script Below 📝
-Order | Section | Description | Length | Narration
+Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arrow_down:
 ----- | ------- | ----------- | ------ | -------
-1 | Title Card | State your name and title for the intro title card. | 1 sentence | **Add your content here:** <br>*"My name is ___ and I'm the ___ at Puppet."* | 00:00-00:05
-2 | Value Proposition | Introduce the value of the product features and explain what the problem is that it solves. Give an example of a real world case study | 1-3 sentences |  :arrow_right: *"The ____ is a (tool/process/product) built to help you _____. (Insert real world case study here)."*
+1 | Title Card | State your name and title for the intro title card. | 1 sentence |*"My name is ___ and I'm the ___ at Puppet."* | 00:00-00:05
+2 | Value Proposition | Introduce the value of the product features and explain what the problem is that it solves. Give an example of a real world case study | 1-3 sentences |  *"The ____ is a (tool/process/product) built to help you _____. (Insert real world case study here)."*
 3 | Video Overview | Provide a video overview. | 3-5 sentences (narration) AND 2-4 bullet points (visual) |  *"In this video I will (overall video intention). First, I will (agenda item 1), then I will (agenda item 2). Next I will (agenda item 3). Lastly I will (agenda item 4)."* **Bullet points: Item 1, Item 2, Item 3, Item 4**
 4 | Training Content | Walk through the training content. This is the meat of the content, containing all the navigation, concepts, links, step-by-step processes, etc. | 5-8 minutes |  *"(Start with agenda item 1. Then move on to item 2, then item 3, and so on...) "*
 5 | Video Recap & Resources | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. | 3-5 sentences |  *"In this video I covered (agenda items/key takeaways, in order of presentation). (Your personal sign-off, including any additional resources and contact information if applicable.)*"
