@@ -21,7 +21,7 @@ Order | Section | Description | Length | Narration | Example Timecode
 4 | Training Content | Walk through the training content. This is the meat of the content, containing all the navigation, concepts, links, step-by-step processes, etc. | 5-8 minutes |  *"The standalone task runner is called Bolt. Its written in Ruby, distributed as a gem, and I'm going to get started by installing Bolt on a workstation with the command 'gem install bolt'..."* | 01:10-06:21
 5 | Video Recap & Resources | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. | 3-5 sentences |  *"(In this video I) ran commands using the Bolt tool, then took those commands and turned them into a script, which was transferred to the remote systems and executed. I then turned the script into a task which let Bolt learn more about how the task was written and run it with parameters... "* | 06:21-06:55
 
-### Fill in Your Script Below 📝⬇️
+### Fill in Your Script Below 📝
 Order | Section | Description | Length | Narration
 ----- | ------- | ----------- | ------ | -------
 1 | Title Card | State your name and title for the intro title card. | 1 sentence | *"My name is ___ and I'm the ___ at Puppet."* | 00:00-00:05
