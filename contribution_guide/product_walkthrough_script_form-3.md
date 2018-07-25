@@ -1,12 +1,8 @@
-# Product Walkthrough Video
+# Product Walkthrough Video Contribution Guide
 
 ### Content Contributors:  
-  ### 1. Fork this repo!
-  ### 2. Read over the video description, watch the video example and read the example script outline. 
-  ### 3. Add your content to the script placeholder form at the bottom of the page. Once that is done, delete everything except your script. Submit a pull request to have your script pulled into the 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
-<br>
-<br>
-<br>
+### 1. First, fork this repo!  
+### 2. Next, read over the following video details, watch the video example and read the example script outline: 
 
 | Description | A product walkthrough video is a high level video that takes the viewer through an overview of key product features; describes the value of the product and a quick glimpse into how it works.
 | --- | --- |
@@ -16,11 +12,12 @@
 | **A/V Recording Settings** | See [Puppet Training Videos: Best Practices](https://confluence.puppetlabs.com/display/SP/Puppet%27s+Training+Videos%3A+Best+Practices), [How to record a demo video](https://confluence.puppetlabs.com/display/SP/How+to+record+a+demo+video) and [Audio Recording 101](https://confluence.puppetlabs.com/display/SP/Audio+Recording+101). 
 
 <br>
-<br>
 
 ### Product Walkthrough Video Example 🎥
 [![Puppet Tasks Product Walkthrough](/contribution_guide/example_screenshots/Puppet_Tasks_Product_Walkthrough.png)](https://puppet.wistia.com/medias/o4nlwajf0y)
 *Video example does not perfectly match script example - defer to script example when writing your script.*
+	
+<br>
 	
 ### Product Walkthrough Script Example 📄
 
@@ -33,13 +30,18 @@ Order | Section | Description | Length | Narration | Example Timecode
 5 | Video Recap & Resources | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. | 3-5 sentences |  *"(In this video I) ran commands using the Bolt tool, then took those commands and turned them into a script, which was transferred to the remote systems and executed. I then turned the script into a task which let Bolt learn more about how the task was written and run it with parameters... "* | 06:21-06:55
 
 <br>
+<br>  
+
+
+### Step 3. Add your content to the script placeholder form below. Once that is done, delete everything above your script. Submit a pull request to have your script pulled into the 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
+
 <br>
 
 ### Fill in Your Script Below 📝
 Order | Section | Description | Length | Narration
 ----- | ------- | ----------- | ------ | -------
-1 | Title Card | State your name and title for the intro title card. | 1 sentence | *"My name is ___ and I'm the ___ at Puppet."* | 00:00-00:05
-2 | Value Proposition | Introduce the value of the product features and explain what the problem is that it solves. Give an example of a real world case study | 1-3 sentences |  *"The ____ is a (tool/process/product) built to help you _____. (Insert real world case study here)."*
+1 | Title Card | State your name and title for the intro title card. | 1 sentence | **Add your content here:** <br>*"My name is ___ and I'm the ___ at Puppet."* | 00:00-00:05
+2 | Value Proposition | Introduce the value of the product features and explain what the problem is that it solves. Give an example of a real world case study | 1-3 sentences |  :arrow_right: *"The ____ is a (tool/process/product) built to help you _____. (Insert real world case study here)."*
 3 | Video Overview | Provide a video overview. | 3-5 sentences (narration) AND 2-4 bullet points (visual) |  *"In this video I will (overall video intention). First, I will (agenda item 1), then I will (agenda item 2). Next I will (agenda item 3). Lastly I will (agenda item 4)."* **Bullet points: Item 1, Item 2, Item 3, Item 4**
 4 | Training Content | Walk through the training content. This is the meat of the content, containing all the navigation, concepts, links, step-by-step processes, etc. | 5-8 minutes |  *"(Start with agenda item 1. Then move on to item 2, then item 3, and so on...) "*
 5 | Video Recap & Resources | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. | 3-5 sentences |  *"In this video I covered (agenda items/key takeaways, in order of presentation). (Your personal sign-off, including any additional resources and contact information if applicable.)*"
