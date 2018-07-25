@@ -1,5 +1,8 @@
 # Product Walkthrough Video
 
+## Task:
+### Read over the video description, and review the video example and example script outline. When you are ready, add your content to the script placeholder form at the bottom of the page.
+
 | Description | A high level video that takes the viewer through an overview of key product features; <br>describes the value of the product and a quick glimpse into how it works.
 | --- | --- |
 | **Presentation** | Command-line screencast along with voiceover narration. <br>Contains title card intro and Puppet-brand animated outro. |
