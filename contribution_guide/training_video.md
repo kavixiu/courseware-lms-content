@@ -13,7 +13,7 @@
 <br>
 
 ### Training Video Example 
-[![What are variables](/contribution_guide/example_screenshots/training-video_what-are-variables-title.png)](https://puppet.wistia.com/medias/yv1ai5j8h1)
+[![What are variables](/contribution_guide/example_screenshots/training-video_variables.png)](https://puppet.wistia.com/medias/yv1ai5j8h1)
 	
 <br>
 	
