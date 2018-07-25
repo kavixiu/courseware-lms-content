@@ -1,8 +1,8 @@
 # Contribution Guide: Product Walkthrough Video Content
 
 ### Content Contributors:  
-### 1. First, fork this repo!  
-### 2. Next, read over the following video details, watch the video example and read the example script outline: 
+### Step 1. Fork this repo!  
+### Step 2. Read over the following video details, watch the video example and read the example script outline: 
 
 | Description | A product walkthrough video is a high level video that takes the viewer through an overview of key product features; describes the value of the product and a quick glimpse into how it works.
 | --- | --- |
