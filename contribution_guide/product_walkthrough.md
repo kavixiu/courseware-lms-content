@@ -1,6 +1,5 @@
 # Contribution Guide: Product Walkthrough
-
-### Content Contributors:  
+ 
 ### Step 1. Fork this repo!  
 ### Step 2. Read over the following video details, watch the video example and read the example script outline: 
 
