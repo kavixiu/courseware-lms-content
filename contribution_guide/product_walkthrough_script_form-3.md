@@ -3,10 +3,11 @@
 ### Content Contributors:  
   ### 1. Fork this repo!
   ### 2. Read over the video description, watch the video example and read the example script outline. 
-  ### 3. Add your content to the script placeholder form at the bottom of the page. Now you can delete everything else on the page and submit a PR to have your script pulled into the 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
+  ### 3. Add your content to the script placeholder form at the bottom of the page. Once that is done, delete everything except your script. Submit a pull request to have your script pulled into the 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
 <br>
-
-| Description | A product walkthrough video is a high level video that takes the viewer through an overview of key product features; <br>describes the value of the product and a quick glimpse into how it works.
+<br>
+<br>
+| Description | A product walkthrough video is a high level video that takes the viewer through an overview of key product features; describes the value of the product and a quick glimpse into how it works.
 | --- | --- |
 | **Presentation** | Command-line screencast along with voiceover narration. <br>Contains title card intro and Puppet-brand animated outro. |
 | **Length** | Up to 10 minutes. |
