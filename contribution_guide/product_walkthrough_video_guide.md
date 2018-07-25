@@ -1,4 +1,4 @@
-# Product Walkthrough Video Contribution Guide
+# Contribution Guide: Product Walkthrough Video Content
 
 ### Content Contributors:  
 ### 1. First, fork this repo!  
