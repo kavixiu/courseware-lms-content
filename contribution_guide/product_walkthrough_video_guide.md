@@ -49,4 +49,4 @@ Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arr
 <br>
 <br>
 
-✨You did it!  :dancers:✨
+✨You did it!  :dancers:✨ Now you're ready to record your screencast. [How to record audio and video for a screencast].(https://confluence.puppetlabs.com/display/SP/How+to+record+audio+and+video+for+a+screencast)
