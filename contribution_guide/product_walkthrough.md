@@ -1,7 +1,7 @@
 # Contribution Guide: Product Walkthrough
  
 ### Step 1. Fork this repo!  
-### Step 2. Read over the following video details, watch the video example and read the example script outline: 
+### Step 2. Review the video details, example video and example script: 
 
 | Description | A product walkthrough video is a high level video that takes the viewer through an overview of key product features; describes the value of the product and a quick glimpse into how it works.
 | --- | --- |
@@ -12,13 +12,13 @@
 
 <br>
 
-### Product Walkthrough Video Example 🎥
+### Product Walkthrough Video Example 
 [![Puppet Tasks Product Walkthrough](/contribution_guide/example_screenshots/Puppet_Tasks_Product_Walkthrough.png)](https://puppet.wistia.com/medias/o4nlwajf0y)
 *Video example does not perfectly match script example - defer to script example when writing your script.*
 	
 <br>
 	
-### Product Walkthrough Script Example 📄
+### Product Walkthrough Script Example 
 
 Order | Section | Description | Length | Narration | Example Timecode
 ----- | ------- | ----------- | ------ | ------- | -----
@@ -32,11 +32,8 @@ Order | Section | Description | Length | Narration | Example Timecode
 <br>  
 
 
-### Step 3. Add your content to the script placeholder form below. 
+### Step 3. Add your content to the script placeholder form below: 
 
-<br>
-
-### Fill in Your Script Below 📝
 Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arrow_down:
 ----- | ------- | ----------- | ------ | -------
 1 | Title Card | State your name and title for the intro title card. | 1 sentence |*"My name is ___ and I'm the ___ at Puppet."* | 00:00-00:05
