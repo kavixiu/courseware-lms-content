@@ -9,7 +9,7 @@
 | **Presentation** | Command-line screencast along with voiceover narration. <br>Contains title card intro and Puppet-brand animated outro. |
 | **Length** | Up to 10 minutes. |
 | **Quality/Tone** | Friendly and authoritative. Narrated directly, in 2nd person (i.e. "Now click on the link" as opposed to "Now *we* click on the link" or "Now *I* click on the link". For more details on tone, defer to the [Puppet Content Style Guide](https://confluence.puppetlabs.com/display/Writing/Tone).)
-| **A/V Recording Settings** | See [Puppet Training Videos: Best Practices](https://confluence.puppetlabs.com/display/SP/Puppet%27s+Training+Videos%3A+Best+Practices), [How to record a demo video](https://confluence.puppetlabs.com/display/SP/How+to+record+a+demo+video) and [Audio Recording 101](https://confluence.puppetlabs.com/display/SP/Audio+Recording+101). 
+| **A/V Recording Settings** | See [Puppet Training Videos: Best Practices](https://confluence.puppetlabs.com/display/SP/Puppet%27s+Training+Videos%3A+Best+Practices), [How to record audio and video for a screencast](https://confluence.puppetlabs.com/display/SP/How+to+record+audio+and+video+for+a+screencast) and [Audio Recording 101](https://confluence.puppetlabs.com/display/SP/Audio+Recording+101). 
 
 <br>
 
@@ -49,4 +49,4 @@ Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arr
 <br>
 <br>
 
-✨You did it!  :dancers:✨ Now you're ready to record your screencast. [How to record audio and video for a screencast].(https://confluence.puppetlabs.com/display/SP/How+to+record+audio+and+video+for+a+screencast)
+✨You did it!  :dancers:✨ Now you're ready to record your screencast. [How to record audio and video for a screencast.](https://confluence.puppetlabs.com/display/SP/How+to+record+audio+and+video+for+a+screencast)
