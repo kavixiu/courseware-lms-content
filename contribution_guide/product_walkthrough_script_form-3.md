@@ -4,6 +4,7 @@
   ### 1. Read over the video description, watch the video example and read the example script outline. 
   ### 2. Add your content to the script placeholder form at the bottom of the page.
 <br>
+
 | Description | A high level video that takes the viewer through an overview of key product features; <br>describes the value of the product and a quick glimpse into how it works.
 | --- | --- |
 | **Presentation** | Command-line screencast along with voiceover narration. <br>Contains title card intro and Puppet-brand animated outro. |
