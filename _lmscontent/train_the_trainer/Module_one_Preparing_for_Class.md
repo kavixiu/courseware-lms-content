@@ -52,13 +52,11 @@ Run the classroom like a pro:
 
 #### Strategies and Resources
 
-**Puppet training documentation**
+Puppet training documentation [link]
 
-**Getting Started with Puppet master outline**
+Getting Started with Puppet master outline [link]
 
-**Podcast**
-
-Active Learning Podcast
+Podcast
 
 This podcast has good takeaways and different perspectives on how to teach and have discussions with adult students. Note for APJ: This podcast focuses on North America and Western European style education 
 
