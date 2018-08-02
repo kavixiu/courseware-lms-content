@@ -31,7 +31,7 @@ Order | Section | Description | Length | Narration | Example Timecode
 <br>
 <br>  
 
-### Step 2. Write your video script as a markdown file, following the example below:
+### Step 2. Write your video script as a markdown file, following the outline below:
 
 Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arrow_down:
 ----- | ------- | ----------- | ------ | -------

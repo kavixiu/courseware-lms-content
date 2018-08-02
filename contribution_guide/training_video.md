@@ -28,7 +28,7 @@ Order | Section | Description | Length | Narration
 <br>  
 
 
-### Step 2. Write your video script as a markdown file, following the example below:
+### Step 2. Write your video script as a markdown file, following the outline below:
 
 Order | Section | Description | Length | Narration 
 ----- | ------- | ----------- | ------ | ------- 
