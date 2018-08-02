@@ -1,4 +1,4 @@
-# Train the Trainer
+# General Train the Trainer
 User: Puppet instructors, including partners
 
 As an instructor, I need to know best practices for engaging learners
