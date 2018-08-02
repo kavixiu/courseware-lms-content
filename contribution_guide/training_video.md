@@ -4,6 +4,7 @@
 ### Step 2. Review the video details, example video and example script: 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 | Description | A training video is designed to teach on a specific concept, tool, product or process. It may be presented in a series based around a theme. It is designed to be easily digestible, and usually includes diagrams and other explanatory graphics.
 | --- | --- |
 | **Presentation** | Visuals may include screencast, diagrams, animations or other explanatory graphics. Narration is done 'in the background' (i.e. narrator is not named in the video). Contains title card intro and Puppet-brand animated outro. |
@@ -12,6 +13,11 @@
 | --- | --- |
 | **Presentation** | Visuals may include screencast, diagrams, animations, or other explanatory graphics. Narration is done in the background (i.e. narrator is not named in the video). The video contains title card intro and Puppet-brand animated outro. |
 >>>>>>> 840e2831d8baeeb0eb46f481ece20c357eb1d7aa
+=======
+| Description | A training video teaches a specific concept, tool, product, or process. It is easily digestible and usually includes diagrams, demos, and other explanatory graphics.
+| --- | --- |
+| **Presentation** | Visuals may include screencast, diagrams, animations, or other explanatory graphics. Narration is done in the background (i.e. narrator is not named in the video). The video contains title card intro and Puppet-brand animated outro. |
+>>>>>>> b916b6541755e12a2f5e57b5707f222bbcfe49d6
 | **Length** | Usually 1- 5 minutes (the shorter the better). |
 | **Quality/Tone** | Friendly and authoritative. Narrated directly, in 2nd person (i.e. "Now click on the link" as opposed to "Now *we* click on the link" or "Now *I* click on the link". For more details on tone, defer to the [Puppet Content Style Guide](https://confluence.puppetlabs.com/display/Writing/Tone).)
 | **A/V Recording Settings** | See [Puppet Training Videos: Best Practices](https://confluence.puppetlabs.com/display/SP/Puppet%27s+Training+Videos%3A+Best+Practices), [How to record audio and video for a screencast](https://confluence.puppetlabs.com/display/SP/How+to+record+audio+and+video+for+a+screencast) and [Audio Recording 101](https://confluence.puppetlabs.com/display/SP/Audio+Recording+101). 
@@ -29,12 +35,17 @@ Order | Section | Description | Length | Narration
 ----- | ------- | ----------- | ------ | ------- 
 1 | Title Card | Title of the video. | 1 sentence | *"What are variables?"* 
 <<<<<<< HEAD
+<<<<<<< HEAD
 2 | Training Content | Walk through the training content. This is the meat of the content, and may include step-by-step processes, real world examples, etc. | 1-5 minutes |  *"Lets say you work for a company. The company has hired a new manager and your job is to create a new fileshare for the new manager... "* 
 3 | Video Recap & Resources (Optional) | A very brief recap about what the viewer has learned. May include resources for where to find more information or people who can answer additional questions. Not always necessary if video is presented in a sequence. | 1-3 sentences |  *"Now you know why its important to use variables and how to correctly use them in your Puppet code."* 
 =======
 2 | Training Content | Walk the user through the problem and the solution. This is the meat of the content, and may include step-by-step processes, real world examples, etc. | 1-5 minutes |  *"Your company has hired a new manager and your job is to create a new fileshare for the new manager but that requires many manual steps with a high risk for mistakes. You can eliminate this with Puppet--here's how."* 
 3 | Video Recap & Resources (Optional) | Provide a summary of key points. Include resources for where to find more information. This is not always necessary if video is part of a larger video or training sequence. | 1-3 sentences |  *"You learned how to correctly use variables in your Puppet code and how to validate your syntax with our online tool."* 
 >>>>>>> 840e2831d8baeeb0eb46f481ece20c357eb1d7aa
+=======
+2 | Training Content | Walk the user through the problem and the solution. This is the meat of the content, and may include step-by-step processes, real world examples, etc. | 1-5 minutes |  *"Your company has hired a new manager and your job is to create a new fileshare for the new manager but that requires many manual steps with a high risk for mistakes. You can eliminate this with Puppet--here's how."* 
+3 | Video Recap & Resources (Optional) | Provide a summary of key points. Include resources for where to find more information. This is not always necessary if video is part of a larger video or training sequence. | 1-3 sentences |  *"You learned how to correctly use variables in your Puppet code and how to validate your syntax with our online tool."* 
+>>>>>>> b916b6541755e12a2f5e57b5707f222bbcfe49d6
 
 <br>
 <br>  
@@ -46,12 +57,17 @@ Order | Section | Description | Length | Narration
 ----- | ------- | ----------- | ------ | ------- 
 1 | Title Card | Title of the video. | 1 sentence | *(Your video title)* 
 <<<<<<< HEAD
+<<<<<<< HEAD
 2 | Training Content | Walk through the training content. This is the meat of the content, and may include step-by-step processes, real world examples, etc. | 1-5 minutes |  *(Use real world examples; walk viewer through understanding the concept, tool, process, etc. step by step).* 
 3 | Video Recap & Resources (Optional) | A very brief recap about what the viewer has learned, and resources for where to find more information or people who can answer additional questions. Not always necessary if video is presented in a sequence. | 1-3 sentences |  *"This video showed you how to ____. For more information, check out the Puppet docs site at ____."* 
 =======
 2 | Training Content | Walk the user through the problem and the solution. This is the meat of the content, and may include step-by-step processes, real world examples, etc. | 1-5 minutes |  *(Use real world examples; walk viewer through understanding the concept, tool, process, etc. step by step).* 
 3 | Video Recap & Resources (Optional) | Provide a summary of key points. Include resources for where to find more information. This is not always necessary if video is part of a larger video or training sequence. | 1-3 sentences |  *"This video showed you how to ____. For more information, check out the Puppet docs site at ____."* 
 >>>>>>> 840e2831d8baeeb0eb46f481ece20c357eb1d7aa
+=======
+2 | Training Content | Walk the user through the problem and the solution. This is the meat of the content, and may include step-by-step processes, real world examples, etc. | 1-5 minutes |  *(Use real world examples; walk viewer through understanding the concept, tool, process, etc. step by step).* 
+3 | Video Recap & Resources (Optional) | Provide a summary of key points. Include resources for where to find more information. This is not always necessary if video is part of a larger video or training sequence. | 1-3 sentences |  *"This video showed you how to ____. For more information, check out the Puppet docs site at ____."* 
+>>>>>>> b916b6541755e12a2f5e57b5707f222bbcfe49d6
 
 <br>
 
