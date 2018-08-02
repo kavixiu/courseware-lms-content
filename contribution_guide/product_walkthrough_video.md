@@ -1,7 +1,6 @@
 # Contribution Guide: Product Walkthrough Video
  
-### Step 1. Fork this repo!  
-### Step 2. Review the video details, example video and example script: 
+### Step 1. Review the following: 
 
 | Description | A product walkthrough video is a high level video that takes the viewer through an overview of key product features; describes the value of the product and a quick glimpse into how it works.
 | --- | --- |
@@ -12,13 +11,14 @@
 
 <br>
 
-### Product Walkthrough Video Example 
+#### Product Walkthrough Video Example 
 [![Puppet Tasks Product Walkthrough](/contribution_guide/example_screenshots/Puppet_Tasks_Product_Walkthrough.png)](https://puppet.wistia.com/medias/o4nlwajf0y)
 *Video example does not perfectly match script example - defer to script example when writing your script.*
 	
 <br>
 	
-### Product Walkthrough Script Example 
+	
+#### Product Walkthrough Script Example 
 
 Order | Section | Description | Length | Narration | Example Timecode
 ----- | ------- | ----------- | ------ | ------- | -----
@@ -31,8 +31,7 @@ Order | Section | Description | Length | Narration | Example Timecode
 <br>
 <br>  
 
-
-### Step 3. Add your content to the script placeholder form below: 
+### Step 2. Write your video script as a markdown file, following the example below:
 
 Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arrow_down:
 ----- | ------- | ----------- | ------ | -------
@@ -44,7 +43,7 @@ Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arr
 
 <br>
 
-### Step 4: Delete everything above your script. Submit a pull request to have your script pulled into the 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
+### Step 4: Save your markdown file and submit a pull request to have it pulled into the video 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
 
 <br>
 

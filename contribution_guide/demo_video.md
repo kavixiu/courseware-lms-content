@@ -1,7 +1,6 @@
 # Contribution Guide: Demo Video
  
-### Step 1. Fork this repo!  
-### Step 2. Review the video details and example script: 
+### Step 1. Review the following: 
 
 | Description | A demo video takes the viewer on a deep dive into understanding a single, specific product feature. 
 | --- | --- |
@@ -12,7 +11,7 @@
 
 <br>
 
-### Demo Video Script Example 
+#### Demo Video Script Example 
 
 Order | Section | Description | Length | Narration
 ----- | ------- | ----------- | ------ | ------- 
@@ -25,8 +24,7 @@ Order | Section | Description | Length | Narration
 <br>
 <br>  
 
-
-### Step 3. Add your content to the script placeholder form below: 
+### Step 2. Write your video script as a markdown file, following the example below:
 
 Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arrow_down:
 ----- | ------- | ----------- | ------ | -------
@@ -38,7 +36,7 @@ Order | Section | Description | Length | :arrow_down: ADD YOUR CONTENT HERE :arr
 
 <br>
 
-### Step 4: Delete everything above your script. Submit a pull request to have your script pulled into the 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
+### Step 4: Save your markdown file and submit a pull request to have it pulled into the video 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
 
 <br>
 
