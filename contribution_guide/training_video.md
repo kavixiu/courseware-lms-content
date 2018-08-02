@@ -38,7 +38,7 @@ Order | Section | Description | Length | Narration
 
 <br>
 
-### Step 4: Save your markdown file and submit a pull request to have it pulled into the video 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
+### Step 3: Save your markdown file and submit a pull request to have it pulled into the video 'transcripts' folder here: https://github.com/puppetlabs/courseware-lms-content/tree/master/video/transcripts.
 
 <br>
 
